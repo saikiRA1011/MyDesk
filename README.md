@@ -32,4 +32,5 @@ US配列と迷いましたが、WindowsとMacの両方で使用する予定だ�
 
 例として、僕のキー設定を紹介します。
 
-
+![keysetting](keysetting.png)
+![keysettingF](keysettingFN.png)
